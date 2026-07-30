@@ -53,7 +53,7 @@ Gerçek teknik staj notları üzerindeki arama performansında paragrafların an
 
 1. Repozitörü klonlayın:
    ```bash
-   git clone [https://github.com/ElifBerr</rag-evaluation-and-chunking-lab.git](https://github.com/kullanici_adi/rag-evaluation-and-chunking-lab.git)
+   git clone [https://github.com/ElifBerra/rag-evaluation-and-chunking-lab.git](https://github.com/kullanici_adi/rag-evaluation-and-chunking-lab.git)
    cd rag-evaluation-and-chunking-lab
    ```
 2. Gerekli kütüphaneleri yükleyin:
