@@ -1,0 +1,5 @@
+Yapay zeka sistemlerinde overfitting modelin veriyi ezberlemesidir. Model eğitim verisini ezberlediğinde gerçek hayattaki yeni verilerde başarısız olur. Bunu önlemek için düzenlileştirme ve erken durdurma teknikleri kullanılır.
+
+Random forest algoritması birden fazla karar ağacını birleştirerek kolektif bir karar mekanizması oluşturur. Bu yöntem tek bir karar ağacının ezber yapma riskini ciddi oranda azaltır.
+
+FAISS kütüphanesi vektör arama işlemlerini hızlandırmak için Facebook tarafından geliştirilmiştir. IVFFlat indeksi veriyi Voronoi hücrelerine bölerek kümeleme yapar. nprobe parametresi ise arama sırasında kaç hücreye bakılacağını belirler.
